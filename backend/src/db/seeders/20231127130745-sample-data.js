@@ -63,7 +63,7 @@ const FeedbacksData = [
 
     // type code here for "relation_one" field
 
-    status: 'pending',
+    status: 'resolved',
 
     // type code here for "relation_one" field
   },
@@ -75,7 +75,7 @@ const FeedbacksData = [
 
     // type code here for "relation_one" field
 
-    status: 'pending',
+    status: 'resolved',
 
     // type code here for "relation_one" field
   },
